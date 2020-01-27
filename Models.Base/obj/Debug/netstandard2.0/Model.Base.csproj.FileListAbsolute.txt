@@ -1,0 +1,8 @@
+C:\_MinhaGuild\MinhaGuild\Models.Base\bin\Debug\netstandard2.0\Model.Base.deps.json
+C:\_MinhaGuild\MinhaGuild\Models.Base\bin\Debug\netstandard2.0\Model.Base.dll
+C:\_MinhaGuild\MinhaGuild\Models.Base\bin\Debug\netstandard2.0\Model.Base.pdb
+C:\_MinhaGuild\MinhaGuild\Models.Base\obj\Debug\netstandard2.0\Model.Base.csprojAssemblyReference.cache
+C:\_MinhaGuild\MinhaGuild\Models.Base\obj\Debug\netstandard2.0\Model.Base.AssemblyInfoInputs.cache
+C:\_MinhaGuild\MinhaGuild\Models.Base\obj\Debug\netstandard2.0\Model.Base.AssemblyInfo.cs
+C:\_MinhaGuild\MinhaGuild\Models.Base\obj\Debug\netstandard2.0\Model.Base.dll
+C:\_MinhaGuild\MinhaGuild\Models.Base\obj\Debug\netstandard2.0\Model.Base.pdb

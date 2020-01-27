@@ -1,0 +1,8 @@
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\bin\Debug\netstandard2.0\Authentication.Base.deps.json
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\bin\Debug\netstandard2.0\Authentication.Base.dll
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\bin\Debug\netstandard2.0\Authentication.Base.pdb
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\obj\Debug\netstandard2.0\Authentication.Base.csprojAssemblyReference.cache
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\obj\Debug\netstandard2.0\Authentication.Base.AssemblyInfoInputs.cache
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\obj\Debug\netstandard2.0\Authentication.Base.AssemblyInfo.cs
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\obj\Debug\netstandard2.0\Authentication.Base.dll
+C:\_MinhaGuild\MinhaGuild\Authentication.Base\obj\Debug\netstandard2.0\Authentication.Base.pdb
